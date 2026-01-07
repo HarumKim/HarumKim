@@ -2,6 +2,7 @@
 
 I am an Engineering student in Robotics and Digital Systems at Tecnológico de Monterrey, currently in my seventh semester.
 
+
 🔭 My academic interests are focused on computer vision, machine learning, and intelligent systems.
 
 🌱 I am currently working with deep learning models and computer vision techniques, including projects involving YOLO and applied AI solutions.
