@@ -1,14 +1,16 @@
 ### Hi there 👋
 
-🔭 I’m currently studying Engineering in Robotics and Digital Systems at Tecnológico de Monterrey, in my third semester.
+I am an Engineering student in Robotics and Digital Systems at Tecnológico de Monterrey, currently in my seventh semester.
 
-🌱 I’m currently learning about IoT (Internet of Things) and working with MySQL databases.
+🔭 My academic interests are focused on computer vision, machine learning, and intelligent systems.
 
-👯 I’m looking to collaborate on projects related to microcontrollers and cybersecurity.
+🌱 I am currently working with deep learning models and computer vision techniques, including projects involving YOLO and applied AI solutions.
 
-🤔 I’m looking for help with finding an internship opportunity in the field of technology.
+🧠 I also enjoy exploring data science, particularly when it can be applied to sports performance and analysis, combining technology with athletic insight.
 
-📫 You can reach me on Instagram: [not_harum](https://www.instagram.com/not_harum/).
+👯 I am interested in collaborating on projects related to AI, computer vision, machine learning, and embedded systems.
 
-⚡ Fun fact: I'm passionate about robotics and represent the women's soccer team at my institution. 
+🤔 I am actively seeking internship opportunities in the technology field to gain hands-on professional experience.
+
+⚡ Fun fact: I am passionate about robotics and proudly represent the women’s soccer team at my institution.
 
