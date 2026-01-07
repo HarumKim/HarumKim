@@ -1,17 +1,19 @@
 ### Hi there 👋
 
-I am an Engineering student in Robotics and Digital Systems at Tecnológico de Monterrey, currently in my seventh semester.
+Engineering student in **Robotics and Digital Systems** at **Tecnológico de Monterrey**  
+Seventh semester
 
+**Interests**
+- Computer vision and machine learning  
+- Intelligent systems and applied AI  
+- Data science for sports performance analysis  
 
-🔭 My academic interests are focused on computer vision, machine learning, and intelligent systems.
+**Current Work**
+- Deep learning and computer vision projects  
+- Object detection using **YOLO**  
 
-🌱 I am currently working with deep learning models and computer vision techniques, including projects involving YOLO and applied AI solutions.
+**Looking For**
+- Internship opportunities in the technology field  
+- Collaboration on AI, CV, ML, and embedded systems  
 
-🧠 I also enjoy exploring data science, particularly when it can be applied to sports performance and analysis, combining technology with athletic insight.
-
-👯 I am interested in collaborating on projects related to AI, computer vision, machine learning, and embedded systems.
-
-🤔 I am actively seeking internship opportunities in the technology field to gain hands-on professional experience.
-
-⚡ Fun fact: I am passionate about robotics and proudly represent the women’s soccer team at my institution.
-
+⚡ Robotics enthusiast and member of the women’s soccer team
